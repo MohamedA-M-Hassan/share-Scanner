@@ -2,12 +2,6 @@
 #include "ui_mainwindow.h"
 
 
-// to insert from file
-    #include <QFileDialog>
-    #include <QFile>
-    #include <QTextStream>
-    #include <QMessageBox>
-
 #include <QString>
 #include <QMap>
 #include <QQueue>
